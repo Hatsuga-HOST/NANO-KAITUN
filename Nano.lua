@@ -114,4 +114,3 @@ print("    STATUS: RUNNING...    ")
 print("============================")
 
 return Kaitun
-print("Script berhasil di-load")
